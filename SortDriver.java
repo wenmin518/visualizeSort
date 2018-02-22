@@ -114,7 +114,7 @@ public class SortDriver extends Applet {
       sortPanel.add(labelbox);
 
       // text field with room for 20 characters
-      rText = new JTextField("Type some text here", 20); 
+      rText = new JTextField("How long do you want this array to be", 20); 
       rText.addActionListener(buttonListener); 
       sortPanel.add(rText);
 
