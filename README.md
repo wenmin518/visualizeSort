@@ -15,7 +15,7 @@ I am using appletviewer from Java, so java must be installed before running prog
 first, clone this repo
 then, running the program using
 ```
-appletviewer Maze.html
+appletviewer SortDriver.html
 ```
 
 HAVE FUN!!!
